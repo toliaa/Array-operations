@@ -37,6 +37,4 @@ This is a simple Windows Forms application that allows users to perform operatio
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
